@@ -1,0 +1,23 @@
+{
+  "name": "npm_publish_demo",
+  "version": "1.0.0",
+  "description": "npm发布测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjlzlr/npm_publish_demo.git"
+  },
+  "keywords": [
+    "npm",
+    "publish"
+  ],
+  "author": "zlr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjlzlr/npm_publish_demo/issues"
+  },
+  "homepage": "https://github.com/zjlzlr/npm_publish_demo#readme"
+}
